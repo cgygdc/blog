@@ -83,6 +83,7 @@ BLOG
 
 ## Buzz words
 
+*   git multiuser on one machine
 *   async javascript
 *   ssh
 *   https
